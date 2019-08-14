@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Interface_Install_Default",
+    "type": "magento-module",
+    "license": "AFL-v3.0",
+    "homepage": "",
+    "description": "Default interface for Install",
+    "authors": [
+    {
+        "name": "Magento Core Team",
+        "email": "core@magentocommerce.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
